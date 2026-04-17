@@ -1,0 +1,8 @@
+requests
+pandas
+sqlalchemy
+filelock
+dotenv
+datetime
+openpyxl
+logging
