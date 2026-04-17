@@ -1,6 +1,6 @@
-# M-11 Project Mode
+# M-11
 
-M-11 Project Mode is an automated stock-trading system built around the Alpaca API. The scripts in the `System` folder work together to maintain a tradeable ticker universe, evaluate machine-learning candidates, monitor open positions, place buy and sell orders, and send Discord alerts.
+GG M-11 is the 11th iteration of my automated stock-trading system built around the Alpaca API. The scripts in the `System` folder work together to maintain a tradeable ticker universe, evaluate machine-learning candidates, monitor open positions, place buy and sell orders, and send Discord alerts.
 
 ---
 
