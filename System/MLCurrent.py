@@ -93,10 +93,6 @@ def compute_dataframe(symbol):
             df[col] = df[col].astype(float)
         # Calculate avg (same as original)
         df['avg'] = (df['h'] + df['l']) / 2
-      
-        # Calculate relative volume (same as original)
-        df['vol_ma5'] = df['v'].shift(1).rolling(5).mean()
-        df['rel_vol'] = df['v'] / df['vol_ma5']
         
         # Calculate percentage change (same as original)
         df['pct_change'] = df['avg'] / df['avg'].shift(1) - 1
@@ -136,7 +132,7 @@ def get_current_forecast(df_full):
     # Calculate forecast if sufficient training data
     if len(train_df) >= 2:
         try:
-            X = train_df[['avg','rel_vol','pct_change']].values
+            X = train_df[['avg','pct_change']].values
             y = train_df['y'].values
             model = LinearRegression().fit(X, y)
             
