@@ -1,0 +1,13 @@
+# M-11 Project Mode Python dependencies
+# Install with: pip install -r requirements.txt
+
+requests
+python-dotenv
+python-dateutil
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+filelock
+discord.py

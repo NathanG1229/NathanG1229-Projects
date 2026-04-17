@@ -1,0 +1,442 @@
+[
+    {
+        "Ticker": "NVDA",
+        "Score": 80.4739973439575,
+        "PercentileBoundary": 0.007974976970268655
+    },
+    {
+        "Ticker": "CPNG",
+        "Score": 77.11003946656336,
+        "PercentileBoundary": 0.0020203337633054146
+    },
+    {
+        "Ticker": "TCOM",
+        "Score": 85.3263720768542,
+        "PercentileBoundary": 0.0016923170879527432
+    },
+    {
+        "Ticker": "STLA",
+        "Score": 88.26925820527414,
+        "PercentileBoundary": 0.003465090482030008
+    },
+    {
+        "Ticker": "UI",
+        "Score": 76.11015464897493,
+        "PercentileBoundary": 0.00682931717708226
+    },
+    {
+        "Ticker": "KB",
+        "Score": 77.09878947035583,
+        "PercentileBoundary": 0.0030894040931433997
+    },
+    {
+        "Ticker": "DLTR",
+        "Score": 79.64085775095296,
+        "PercentileBoundary": 0.001987917914353065
+    },
+    {
+        "Ticker": "WSM",
+        "Score": 74.70234334769765,
+        "PercentileBoundary": 0.0012190554907860918
+    },
+    {
+        "Ticker": "FTAI",
+        "Score": 81.38246239029772,
+        "PercentileBoundary": 0.006445129218958989
+    },
+    {
+        "Ticker": "ZTO",
+        "Score": 82.72582832386533,
+        "PercentileBoundary": 0.004147371737862637
+    },
+    {
+        "Ticker": "FN",
+        "Score": 81.64282655277745,
+        "PercentileBoundary": 0.00919187811455977
+    },
+    {
+        "Ticker": "BURL",
+        "Score": 76.97073247379566,
+        "PercentileBoundary": 0.0047301908562861865
+    },
+    {
+        "Ticker": "SAIA",
+        "Score": 79.02127193302493,
+        "PercentileBoundary": 0.008905060474614078
+    },
+    {
+        "Ticker": "CLF",
+        "Score": 85.48185112026218,
+        "PercentileBoundary": 0.005761436201865754
+    },
+    {
+        "Ticker": "AL",
+        "Score": 76.55618636564853,
+        "PercentileBoundary": 0.003143210829106555
+    },
+    {
+        "Ticker": "BOOT",
+        "Score": 82.58109538293319,
+        "PercentileBoundary": 0.007166036106087636
+    },
+    {
+        "Ticker": "ATAT",
+        "Score": 97.95916131303525,
+        "PercentileBoundary": 0.0018728248381451702
+    },
+    {
+        "Ticker": "RDNT",
+        "Score": 92.9288386256023,
+        "PercentileBoundary": 0.00556895215098414
+    },
+    {
+        "Ticker": "WGS",
+        "Score": 83.47709587183184,
+        "PercentileBoundary": 0.007601813843948045
+    },
+    {
+        "Ticker": "YETI",
+        "Score": 78.3612299102908,
+        "PercentileBoundary": 0.008057453639301259
+    },
+    {
+        "Ticker": "VEON",
+        "Score": 79.44774776079302,
+        "PercentileBoundary": 0.0051625758255432475
+    },
+    {
+        "Ticker": "IPGP",
+        "Score": 74.73735016643384,
+        "PercentileBoundary": 0.008078060623538885
+    },
+    {
+        "Ticker": "CPRI",
+        "Score": 84.93741659690295,
+        "PercentileBoundary": 0.025164606803735955
+    },
+    {
+        "Ticker": "WRD",
+        "Score": 92.24479005770668,
+        "PercentileBoundary": 0.08028989955906016
+    },
+    {
+        "Ticker": "VNET",
+        "Score": 82.52080060709542,
+        "PercentileBoundary": 0.013441679391202197
+    },
+    {
+        "Ticker": "PLAB",
+        "Score": 78.82662579790878,
+        "PercentileBoundary": 0.006954736563854835
+    },
+    {
+        "Ticker": "ZBIO",
+        "Score": 88.38345695915417,
+        "PercentileBoundary": 0.03661916283341018
+    },
+    {
+        "Ticker": "SBET",
+        "Score": 84.51924264590599,
+        "PercentileBoundary": 0.028649289114613903
+    },
+    {
+        "Ticker": "NTCT",
+        "Score": 85.81258067981805,
+        "PercentileBoundary": 0.001085240818518218
+    },
+    {
+        "Ticker": "HLIO",
+        "Score": 74.69202554859928,
+        "PercentileBoundary": 0.004886109348933632
+    },
+    {
+        "Ticker": "ARHS",
+        "Score": 84.50743788757387,
+        "PercentileBoundary": 0.005574412006695728
+    },
+    {
+        "Ticker": "SANA",
+        "Score": 84.94354123891048,
+        "PercentileBoundary": 0.03713345999101575
+    },
+    {
+        "Ticker": "NPKI",
+        "Score": 76.45505513828022,
+        "PercentileBoundary": 0.009237917872228269
+    },
+    {
+        "Ticker": "CRML",
+        "Score": 88.65464714438232,
+        "PercentileBoundary": 0.04997520704310848
+    },
+    {
+        "Ticker": "NEXA",
+        "Score": 82.32828627259696,
+        "PercentileBoundary": 0.005194237664753331
+    },
+    {
+        "Ticker": "FULC",
+        "Score": 83.68047378904343,
+        "PercentileBoundary": 0.011131985340651962
+    },
+    {
+        "Ticker": "TH",
+        "Score": 80.18448332874118,
+        "PercentileBoundary": 0.01919528819814351
+    },
+    {
+        "Ticker": "RZLV",
+        "Score": 85.61245506269239,
+        "PercentileBoundary": 0.012367507781924103
+    },
+    {
+        "Ticker": "JBIO",
+        "Score": 92.17487549800796,
+        "PercentileBoundary": 0.44122398567710586
+    },
+    {
+        "Ticker": "ORGO",
+        "Score": 79.25492090594538,
+        "PercentileBoundary": 0.0018965990013279446
+    },
+    {
+        "Ticker": "IRWD",
+        "Score": 83.75807268073073,
+        "PercentileBoundary": 0.047611378404500936
+    },
+    {
+        "Ticker": "CRNC",
+        "Score": 79.52546008616683,
+        "PercentileBoundary": -7.493463528047953e-05
+    },
+    {
+        "Ticker": "BVS",
+        "Score": 86.8087603280335,
+        "PercentileBoundary": 0.012037675932692268
+    },
+    {
+        "Ticker": "BYND",
+        "Score": 83.19828954809128,
+        "PercentileBoundary": 0.03730707206341521
+    },
+    {
+        "Ticker": "CANG",
+        "Score": 82.06193381226214,
+        "PercentileBoundary": 0.03501745774899223
+    },
+    {
+        "Ticker": "BIOA",
+        "Score": 93.77648700844613,
+        "PercentileBoundary": 0.028377882509196237
+    },
+    {
+        "Ticker": "NBP",
+        "Score": 86.17610128155425,
+        "PercentileBoundary": 0.01210724102344036
+    },
+    {
+        "Ticker": "NMG",
+        "Score": 86.56200419918845,
+        "PercentileBoundary": 0.010795427048447182
+    },
+    {
+        "Ticker": "CTRN",
+        "Score": 86.68807175668908,
+        "PercentileBoundary": 0.0045564889726529495
+    },
+    {
+        "Ticker": "LWAY",
+        "Score": 75.24483712209982,
+        "PercentileBoundary": 0.0027808861231999322
+    },
+    {
+        "Ticker": "INV",
+        "Score": 89.05945477000859,
+        "PercentileBoundary": 0.03649807898851787
+    },
+    {
+        "Ticker": "TTSH",
+        "Score": 74.17378039260942,
+        "PercentileBoundary": 0.007365233085843202
+    },
+    {
+        "Ticker": "MASS",
+        "Score": 85.87946366821022,
+        "PercentileBoundary": 0.008071582712728807
+    },
+    {
+        "Ticker": "LPRO",
+        "Score": 81.41397965510816,
+        "PercentileBoundary": 0.020167505482248656
+    },
+    {
+        "Ticker": "OSUR",
+        "Score": 90.95776769347452,
+        "PercentileBoundary": 0.007283361816357202
+    },
+    {
+        "Ticker": "RPID",
+        "Score": 85.67241391073696,
+        "PercentileBoundary": 0.009276643472514777
+    },
+    {
+        "Ticker": "TONX",
+        "Score": 83.72529358567986,
+        "PercentileBoundary": 0.22002694627783748
+    },
+    {
+        "Ticker": "APYX",
+        "Score": 88.92686903180928,
+        "PercentileBoundary": 0.013464620910833086
+    },
+    {
+        "Ticker": "HSDT",
+        "Score": 82.21615181838246,
+        "PercentileBoundary": 0.9143250035504112
+    },
+    {
+        "Ticker": "EHTH",
+        "Score": 83.14163824404964,
+        "PercentileBoundary": 0.005844431844061648
+    },
+    {
+        "Ticker": "ORMP",
+        "Score": 81.94666867734595,
+        "PercentileBoundary": 0.010644972394522488
+    },
+    {
+        "Ticker": "CTOR",
+        "Score": 87.27420293418572,
+        "PercentileBoundary": 0.7444289824230784
+    },
+    {
+        "Ticker": "PRPL",
+        "Score": 83.78516714736392,
+        "PercentileBoundary": 0.014262975950730178
+    },
+    {
+        "Ticker": "IMA",
+        "Score": 82.944266229149,
+        "PercentileBoundary": 0.009233263238197773
+    },
+    {
+        "Ticker": "BDSX",
+        "Score": 82.50997130455818,
+        "PercentileBoundary": 0.012789411344846145
+    },
+    {
+        "Ticker": "TLYS",
+        "Score": 84.31269315666763,
+        "PercentileBoundary": 0.019096419937514136
+    },
+    {
+        "Ticker": "CVM",
+        "Score": 83.37764454688066,
+        "PercentileBoundary": 0.01766646585427771
+    },
+    {
+        "Ticker": "SVRN",
+        "Score": 85.95042635063685,
+        "PercentileBoundary": 0.3806828442912684
+    },
+    {
+        "Ticker": "BTAI",
+        "Score": 85.45609624742139,
+        "PercentileBoundary": 0.025459334649019703
+    },
+    {
+        "Ticker": "CNTY",
+        "Score": 80.84159439148874,
+        "PercentileBoundary": 0.005256407071772883
+    },
+    {
+        "Ticker": "HBIO",
+        "Score": 85.14984569657877,
+        "PercentileBoundary": 0.00024232012187534946
+    },
+    {
+        "Ticker": "NERV",
+        "Score": 94.5315484179014,
+        "PercentileBoundary": 0.014138236231784139
+    },
+    {
+        "Ticker": "ZYXI",
+        "Score": 86.52731059691118,
+        "PercentileBoundary": 0.016414895207419098
+    },
+    {
+        "Ticker": "TXMD",
+        "Score": 89.25841396631931,
+        "PercentileBoundary": 0.010618079105274033
+    },
+    {
+        "Ticker": "COSM",
+        "Score": 83.41566881767002,
+        "PercentileBoundary": 0.45071726234953124
+    },
+    {
+        "Ticker": "LVLU",
+        "Score": 88.7668336554771,
+        "PercentileBoundary": 0.006713720973278625
+    },
+    {
+        "Ticker": "BBGI",
+        "Score": 89.87618859215604,
+        "PercentileBoundary": 0.0036086590891466924
+    },
+    {
+        "Ticker": "NCEL",
+        "Score": 84.45265013773945,
+        "PercentileBoundary": 0.11886444551087022
+    },
+    {
+        "Ticker": "HTOO",
+        "Score": 88.20755301326861,
+        "PercentileBoundary": 0.0516923328367987
+    },
+    {
+        "Ticker": "KALA",
+        "Score": 82.93813369258257,
+        "PercentileBoundary": 0.22718769619516452
+    },
+    {
+        "Ticker": "GTBP",
+        "Score": 83.26578685258964,
+        "PercentileBoundary": 0.03676876004396003
+    },
+    {
+        "Ticker": "REVB",
+        "Score": 88.87629587738245,
+        "PercentileBoundary": 0.4133624429037209
+    },
+    {
+        "Ticker": "ENSC",
+        "Score": 86.72614839786154,
+        "PercentileBoundary": 0.07254966689433566
+    },
+    {
+        "Ticker": "CMND",
+        "Score": 83.7318027154515,
+        "PercentileBoundary": 0.027698164605108898
+    },
+    {
+        "Ticker": "ONCO",
+        "Score": 84.1899060290091,
+        "PercentileBoundary": 1.3594393299546532
+    },
+    {
+        "Ticker": "FRGT",
+        "Score": 92.12724754321405,
+        "PercentileBoundary": 0.2941870268584235
+    },
+    {
+        "Ticker": "ENVB",
+        "Score": 89.39001112020114,
+        "PercentileBoundary": 0.07532508674812377
+    },
+    {
+        "Ticker": "NUWE",
+        "Score": 84.43821941670548,
+        "PercentileBoundary": 0.2762376889618654
+    }
+]
