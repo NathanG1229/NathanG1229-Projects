@@ -3,8 +3,8 @@ A public access into the projects that I have created.
 
 You can find them in the branches 2 branches of this repository.
 
-**Stock Analysis Tool**
-Overview
+## Stock Analysis Tool
+### Overview
 This project is a hybrid Excel and Python workflow for in-depth stock analysis.
 
 It is designed to help you:
@@ -15,13 +15,14 @@ compare a company against similar businesses in the same industry,
 group peers using industry classification and approximate market-cap similarity.
 The workflow pulls market data from Alpaca, financial filing data from the SEC, stores processed results in SQLite, and supports analysis through the included Excel workbook.
 
-Main Components
+### Main Components
 Company Analysis.xlsm — the primary Microsoft Excel workbook for analysis and presentation.
 DB_Builder.py — builds and updates the SQLite database with company facts and price history.
 APIs.py — handles SEC and Alpaca API requests.
 Table_Tools.py — combines and manages SQLite tables.
 Tools.py — shared utility helpers.
-Requirements
+
+### Requirements
 To use this project as intended, you will need the following:
 
 1) Microsoft 365 account
@@ -40,7 +41,7 @@ SQLite is used as the local database engine that stores the processed company an
 4) ODBC driver
 An ODBC driver is required if Excel or related tools are connecting to the SQLite database through ODBC.
 
-Additional Software Needed
+## Additional Software Needed
 In practice, you should also have the following installed:
 
 Python 3.10+
@@ -79,25 +80,25 @@ Confirm that the project folder path matches your local machine.
 Run the database build process:
 python DB_Builder.py
 Open Company Analysis.xlsm in Excel and enable macros if prompted.
-Data Sources
+
+### Data Sources
 This project relies on third-party data sources, including:
 
 SEC EDGAR / Company Facts API for company filing and financial statement data
 Alpaca Market Data API for historical stock-price data
 Availability, accuracy, and rate limits depend on those external services.
 
-Disclosure and Use Notice
+### Disclosure and Use Notice
 This project is intended for research, educational, and analytical use.
 
 It should not be treated as:
 
 financial advice,
 investment advice,
-tax advice,
 a guarantee of accuracy or completeness.
-All market and company data should be independently verified before making financial decisions.
+**All market and company data should be independently verified before making financial decisions.**
 
-Known Setup Notes
+### Known Setup Notes
 Some paths in the Python scripts may be configured for a local Windows environment and may need to be updated on another machine.
 The workbook is designed around Microsoft Excel and may not function correctly in non-Microsoft spreadsheet tools.
 Internet access is required for API calls.
