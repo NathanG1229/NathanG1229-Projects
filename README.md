@@ -61,7 +61,8 @@ Important
 Do not share or commit your real API keys.
 If keys were ever exposed publicly, rotate them immediately in your Alpaca account.
 Update any hard-coded local paths in the project if your folder location is different.
-How the Project Works
+
+### How the Project Works
 The workbook provides the user-facing analysis experience.
 The Python scripts download:
 SEC company facts,
@@ -70,7 +71,8 @@ historical stock-price data from Alpaca.
 The data is cleaned, transformed, and written into a SQLite database.
 Sector tables are combined into a single table for broader analysis.
 Excel can then be used to explore and compare companies.
-Typical Setup Steps
+
+### Typical Setup Steps
 Clone or download this project.
 Install Python and the required packages.
 Install SQLite 3.
