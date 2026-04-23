@@ -232,6 +232,8 @@ It also sends normal and urgent notifications to Discord webhooks.
 - Review all trading logic carefully before using with live capital.
 
 
+
+
 ## Stock Analysis Tool
 ### Overview
 This project is a hybrid Excel and Python workflow for in-depth stock analysis.
