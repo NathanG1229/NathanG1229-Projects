@@ -3,7 +3,7 @@ A public access into the projects that I have created.
 
 You can find them in the branches 2 branches of this repository.
 
-## GG M-11
+## Project 1: GG M-11
 
 GG M-11 is the 11th iteration of my automated stock-trading system built around the Alpaca API. The scripts in the `System` folder work together to maintain a tradeable ticker universe, evaluate machine-learning candidates, monitor open positions, place buy and sell orders, and send Discord alerts.
 
@@ -234,7 +234,7 @@ It also sends normal and urgent notifications to Discord webhooks.
 
 
 
-## Stock Analysis Tool
+## Project 2: Stock Analysis Tool
 ### Overview
 This project is a hybrid Excel and Python workflow for in-depth stock analysis.
 
